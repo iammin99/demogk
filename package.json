@@ -1,8 +1,11 @@
 {
-  "name": "gk-cong-nghe-moi",
+  "name": "demogk",
   "version": "0.0.1",
   "description": "",
-  "author": "",
+  "author": {
+    "name": "Phan Minh Châu",
+    "email": "chumin99@hotmail.com"
+  },
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
